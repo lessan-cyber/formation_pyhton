@@ -1,0 +1,1 @@
+# il existe dux type de variable en Poo il a les variable d'instance et les variable de classe
